@@ -1,0 +1,89 @@
+/* *{
+  background-color: rgb(194, 218, 234);
+} */
+
+/* .marque{
+  height: 110px;
+
+  background-color: rgb(47, 210, 47);
+  font-size: 30px;
+  color: white;
+  margin-top: 10px;
+  box-shadow: 2px 2px 2px 2px;
+
+} */
+.img1{
+  height: 50px;
+  margin-left: 20px;
+
+}
+
+
+
+.nav-link{
+  font-size: 20px;
+  margin-left: 80px;
+  
+}
+/* .marque1{
+  height: 100px;
+
+  font-size: 30px;
+  color:white;
+  margin-top: 10px;
+  background-color:rgba(160, 34, 158, 0.792);
+  box-shadow: 2px 2px 2px 2px;
+
+} */
+#cont1{
+  height: 1150px;
+  /* border: 1px solid rgb(234, 31, 31); */
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.img-thumbnail{
+  height: 450px;
+  width:500px;
+  margin-left: 30px;
+  transition: all 0.3s;
+  box-shadow: 5px 5px 5px 5px;
+}
+.img-thumbnail:hover{
+  transform: scale(1.1);
+}
+.div1{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.anchor1{
+  text-align: center;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  transition: all 0.3s;
+  margin-top: 30px;
+
+}
+.anchor1:hover{
+  transform: scale(1.1);
+  color: green;
+  font-size: 32px;;
+
+}
+.d-block{
+  height: 900px;
+}
+#Newh1{
+  color: red;
+  margin-top: 20px;
+  font-size: 26px;
+
+}
+footer{
+  /* border: 1px solid black; */
+  height: 300px;
+}

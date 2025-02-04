@@ -1,0 +1,33 @@
+@media(width<=431px){
+ 
+  .nav-link{
+    font-size: 15px;
+    margin-left: 120px;
+    float: left;
+    position: relative;
+    right: 90px;
+   
+  }
+  .img1{
+    height: 70px;
+    /* margin-left: 10px; */
+  
+  }
+  .img-thumbnail{
+    height: 200px;
+    width:350px;
+    position: relative;
+    right: 20px;
+    /* margin-left: 30px;
+    transition: all 0.3s; */
+  }
+  .d-block{
+    height: 200px;
+  }
+  #Newh1{
+    color: red;
+    margin-top: 30px;
+    font-size: 19px;
+  
+  }
+}

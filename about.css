@@ -1,0 +1,43 @@
+/* *{
+  background-color: rgb(207, 213, 216);
+} */
+
+#cont1{
+  /* border: 1px solid black; */
+  height: 660px;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+  #cont1{
+    /* border: 1px solid black; */
+    height: 250px;
+    display: flex;
+    justify-content: center;
+  }
+  #readDiv1{
+    /* border: 1px solid black; */
+    height: 300px;
+    
+  }
+
+.d-block{
+  height: 700px;
+  
+}
+
+/* #aboutDiv1{
+  border: 1px solid black;
+  height: 700px;
+} */
+
+@media(width<=434px){
+  .d-block{
+    height: 220px;
+    width: 350px;
+  }
+}
